@@ -1,9 +1,10 @@
 # AED
+
 Profesor: Ing. Jose Maria Sola
 
 Curso: K1253
 
-Año:20222
+Año: 2022
 
 Alumno: German Ceballos
 
