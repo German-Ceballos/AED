@@ -1,15 +1,17 @@
 # Algoritmos y Estructura de Datos
 
-Profesor: Ing. Jose Maria Sola
+**Profesor**: *Ing. Jose Maria Sola*
 
-Curso: K1253
+**Curso**: K1253
 
-Año: 2022
+**Año**: 2022
 
-Apellido: Ceballos
+**Apellido**: *Ceballos*
 
-Legajo: 2034967
+**Legajo**: 2034967
 
-Nombre: German
+**Nombre**: *German*
 
 ## Indice
+
+-items
