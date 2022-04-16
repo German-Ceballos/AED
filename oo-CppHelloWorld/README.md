@@ -5,21 +5,21 @@
 ```
 1. Si no posee una cuenta GitHub, crearla.
 
-2. Crear un repositorio público llamado AED.
+2. Crear un repositorio pÃºblico llamado AED.
 
-3.. Escribir el archivo readme.md que actúa como front page del repositorio
+3.. Escribir el archivo readme.md que actÃºa como front page del repositorio
 personal.
 
 4. Crear la carpeta 00-CppHelloWorld.
 
-5. Escribir el archivo readme.md que actúa como front page de la resolución.
+5. Escribir el archivo readme.md que actÃºa como front page de la resoluciÃ³n.
 
-6. Seleccionar, instalar, y configurar un compilador C++ 20 (ó C++ 17 ó C++ 14
-ó C++ 11).
+6. Seleccionar, instalar, y configurar un compilador C++ 20 (Ã³ C++ 17 Ã³ C++ 14
+Ã³ C++ 11).
 
 7. Indicar en readme.md el compilador seleccionado.
 
-8. Probar el compilador con un programa hello.cpp que envíe a cout la línea
+8. Probar el compilador con un programa hello.cpp que envÃ­e a cout la lÃ­nea
 Hello, World! o similar.
 
 9. Ejecutar el programa, y capturar su salida en un archivo output.txt .
@@ -27,9 +27,9 @@ Hello, World! o similar.
 10.Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con
 readme.md, hello.cpp, y output.txt .
 
-11.La última tarea es informar el usuario GitHub en la lista indicada en el curso.
+11.La Ãºltima tarea es informar el usuario GitHub en la lista indicada en el curso.
 
 ```
 ## Compilador
 
-``` ```
+```  ```
