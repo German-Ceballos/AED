@@ -32,4 +32,7 @@ readme.md, hello.cpp, y output.txt .
 ```
 ## Compilador
 
-```  ```
+``` 
+Visual Studio Community 2022 
+Version: 17.1.4
+```
