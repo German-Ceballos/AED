@@ -12,6 +12,4 @@
 
 **Nombre**: *German*
 
-## Indice
 
-1.
